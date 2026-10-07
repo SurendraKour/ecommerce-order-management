@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Node / React
+node_modules/
+dist/
+
+# Java / Maven
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated Python analytics files
+python-analytics/analytics_report.csv
+python-analytics/analytics_report.xlsx
+python-analytics/sales_by_product.png
+python-analytics/top_5_products.png

@@ -1,0 +1,7 @@
+order_id,customer,product,quantity,unit_price,status
+1,Sunny Singh,Dell Laptop,2,65000,DELIVERED
+2,Nisha Kour,Dell Laptop,1,65000,CANCELLED
+3,Rahul Sharma,HP Laptop,2,55000,DELIVERED
+4,Priya Singh,Mouse,5,1200,PLACED
+5,Aman Verma,Keyboard,3,2500,DELIVERED
+6,Neha Kour,Dell Laptop,1,65000,CANCELLED
